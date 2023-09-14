@@ -1,0 +1,32 @@
+# .gitignore
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore Python virtualenv
+venv/
+
+# Ignore .env files
+.env
+
+# Ignore dist/ folder
+dist/
+
+# Ignore .DS_Store
+.DS_Store
+
+# Ignore Python compiled files
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore Database files
+*.db
+
+# Ignore Docker volumes
+volumes/
+
+# Ignore IDE specific files
+.idea/
+.vscode/
