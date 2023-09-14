@@ -1,0 +1,19 @@
+version: '3'
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app
+    depends_on:
+      - db
+  db:
+    image: "microsoft/mssql-server-linux"
+    environment:
+      SA_PASSWORD: "YourPassword"
+      ACCEPT_EULA: "Y"
+    volumes:
+      - dbdata:/var/opt/mssql
+volumes:
+  dbdata: {}

@@ -1,0 +1,102 @@
+flask==1.1.2
+flask-restful==0.3.8
+flask-sqlalchemy==2.4.4
+flask-migrate==2.5.3
+flask-jwt-extended==3.24.1
+flask-cors==3.0.9
+pyodbc==4.0.30
+pytest==6.2.2
+pytest-cov==2.10.1
+gunicorn==20.0.4
+psycopg2-binary==2.8.6
+python-dotenv==0.15.0
+requests==2.25.1
+pandas==1.2.1
+numpy==1.20.1
+scipy==1.6.1
+matplotlib==3.3.4
+seaborn==0.11.1
+react==17.0.1
+react-dom==17.0.1
+react-router-dom==5.2.0
+react-scripts==4.0.1
+axios==0.21.1
+bootstrap==4.6.0
+reactstrap==8.9.0
+react-chartjs-2==2.11.1
+jwt-decode==3.1.2
+lucee==5.3.7.47
+mssql==1.0.0
+pyms==1.0.1
+pyms[encrypt]==1.0.1
+pyms[swagger]==1.0.1
+pyms[requests]==1.0.1
+pyms[grpc]==1.0.1
+pyms[sqlalchemy]==1.0.1
+pyms[celery]==1.0.1
+pyms[redis]==1.0.1
+pyms[logging]==1.0.1
+pyms[metrics]==1.0.1
+pyms[trace]==1.0.1
+pyms[config]==1.0.1
+pyms[tests]==1.0.1
+pyms[flask]==1.0.1
+pyms[pycryptodome]==1.0.1
+pyms[pycryptodomex]==1.0.1
+pyms[pyjwt]==1.0.1
+pyms[pyjwt[crypto]]==1.0.1
+pyms[pyjwt[flask]]==1.0.1
+pyms[pyjwt[django]]==1.0.1
+pyms[pyjwt[sanic]]==1.0.1
+pyms[pyjwt[starlette]]==1.0.1
+pyms[pyjwt[fastapi]]==1.0.1
+pyms[pyjwt[asgi]]==1.0.1
+pyms[pyjwt[wsgi]]==1.0.1
+pyms[pyjwt[dev]]==1.0.1
+pyms[pyjwt[docs]]==1.0.1
+pyms[pyjwt[tests]]==1.0.1
+pyms[pyjwt[all]]==1.0.1
+pyms[pyjwt[flask, crypto]]==1.0.1
+pyms[pyjwt[django, crypto]]==1.0.1
+pyms[pyjwt[sanic, crypto]]==1.0.1
+pyms[pyjwt[starlette, crypto]]==1.0.1
+pyms[pyjwt[fastapi, crypto]]==1.0.1
+pyms[pyjwt[asgi, crypto]]==1.0.1
+pyms[pyjwt[wsgi, crypto]]==1.0.1
+pyms[pyjwt[dev, crypto]]==1.0.1
+pyms[pyjwt[docs, crypto]]==1.0.1
+pyms[pyjwt[tests, crypto]]==1.0.1
+pyms[pyjwt[all, crypto]]==1.0.1
+pyms[pyjwt[flask, crypto, dev]]==1.0.1
+pyms[pyjwt[django, crypto, dev]]==1.0.1
+pyms[pyjwt[sanic, crypto, dev]]==1.0.1
+pyms[pyjwt[starlette, crypto, dev]]==1.0.1
+pyms[pyjwt[fastapi, crypto, dev]]==1.0.1
+pyms[pyjwt[asgi, crypto, dev]]==1.0.1
+pyms[pyjwt[wsgi, crypto, dev]]==1.0.1
+pyms[pyjwt[dev, crypto, dev]]==1.0.1
+pyms[pyjwt[docs, crypto, dev]]==1.0.1
+pyms[pyjwt[tests, crypto, dev]]==1.0.1
+pyms[pyjwt[all, crypto, dev]]==1.0.1
+pyms[pyjwt[flask, crypto, dev, docs]]==1.0.1
+pyms[pyjwt[django, crypto, dev, docs]]==1.0.1
+pyms[pyjwt[sanic, crypto, dev, docs]]==1.0.1
+pyms[pyjwt[starlette, crypto, dev, docs]]==1.0.1
+pyms[pyjwt[fastapi, crypto, dev, docs]]==1.0.1
+pyms[pyjwt[asgi, crypto, dev, docs]]==1.0.1
+pyms[pyjwt[wsgi, crypto, dev, docs]]==1.0.1
+pyms[pyjwt[dev, crypto, dev, docs]]==1.0.1
+pyms[pyjwt[docs, crypto, dev, docs]]==1.0.1
+pyms[pyjwt[tests, crypto, dev, docs]]==1.0.1
+pyms[pyjwt[all, crypto, dev, docs]]==1.0.1
+pyms[pyjwt[flask, crypto, dev, docs, tests]]==1.0.1
+pyms[pyjwt[django, crypto, dev, docs, tests]]==1.0.1
+pyms[pyjwt[sanic, crypto, dev, docs, tests]]==1.0.1
+pyms[pyjwt[starlette, crypto, dev, docs, tests]]==1.0.1
+pyms[pyjwt[fastapi, crypto, dev, docs, tests]]==1.0.1
+pyms[pyjwt[asgi, crypto, dev, docs, tests]]==1.0.1
+pyms[pyjwt[wsgi, crypto, dev, docs, tests]]==1.0.1
+pyms[pyjwt[dev, crypto, dev, docs, tests]]==1.0.1
+pyms[pyjwt[docs, crypto, dev, docs, tests]]==1.0.1
+pyms[pyjwt[tests, crypto, dev, docs, tests]]==1.0.1
+pyms[pyjwt[all, crypto, dev, docs, tests]]==1.0.1
